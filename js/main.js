@@ -1,3 +1,3 @@
 function cumprimentar() {
-    alert("Olá");
+    alert("VOCÊ é um pão, NÓ NÓ NÓ. . .");
 }
